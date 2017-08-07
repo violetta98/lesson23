@@ -1,0 +1,4 @@
+Message 1
+Message 2
+java.lang.Exception: Message about error
+	at lol.lol2.main(lol2.java:38)
